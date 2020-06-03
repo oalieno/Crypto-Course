@@ -11,7 +11,7 @@ There are four practice challenges in this section.
 3. [CBC Mode / Padding Oracle Attack](/AES/Padding-Oracle)
 4. [GCM Mode / Forbidden Attack](/AES/Forbidden)
 
-Each challenge contains a target server `server.py` and a solution script `solve.py`.
+Each challenge contains a target server `server.py` and a solution script `solve.py`.  
 You can use the following command to start up the server.
 
 ```bash
