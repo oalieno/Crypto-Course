@@ -7,7 +7,7 @@ Currently only have 2 sections. More coming...
 1. [AES](/AES)
 2. [RSA](/RSA)
 
-## Dependency
+## Requirements
 
 * [pycryptodome](https://github.com/Legrandin/pycryptodome)
 * [pwntools](https://github.com/Gallopsled/pwntools)
