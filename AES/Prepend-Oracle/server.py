@@ -3,7 +3,7 @@ import os
 from Crypto.Cipher import AES
 
 KEY = os.urandom(16)
-FLAG = open('./flag').read().encode()
+FLAG = open('./flag', 'rb').read()
 
 def pad(m):
     padlen = -len(m) % 16
