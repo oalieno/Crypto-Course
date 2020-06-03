@@ -1,6 +1,6 @@
 # Crypto Course
 
-This is an open source practical cryptography course for CTF player.
+An open source practical cryptography course for CTF player.
 
 Currently only have 2 sections. More coming...
 
