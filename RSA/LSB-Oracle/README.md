@@ -1,4 +1,4 @@
-# ECB Mode / Cut & Paste
+# LSB Oracle Attack
 
 * `server.py` : target server
 * `solve.py` : solution script using the first method described in the slide
