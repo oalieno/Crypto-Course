@@ -5,7 +5,7 @@ You can look at the [course material](/RSA/RSA.pdf) first before diving into the
 
 ## Challenges
 
-There are 9 practice challenges in this section.
+There are 10 practice challenges in this section.
 
 1. [Factor n with d](/RSA/Factor-n-with-d)
 2. [Broadcast Attack](/RSA/Broadcast)
@@ -16,3 +16,4 @@ There are 9 practice challenges in this section.
 7. [Stereotyped Message](/RSA/Stereotyped)
 8. [Known High Bits of p](/RSA/Known-High-Bits-of-p)
 9. [Franklin Reiter Related Message](/RSA/Franklin-Reiter)
+10. [Coppersmith Short-Pad Attack](/RSA/Coppersmith-Short-Pad)
