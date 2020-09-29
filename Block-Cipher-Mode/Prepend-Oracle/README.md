@@ -7,6 +7,6 @@
 You can use the following command to start up the server.
 
 ```bash
-socat TCP-LISTEN:20000,fork EXEC:./server.py
+socat TCP-LISTEN:20000,fork EXEC:'python ./server.py'
 ```
 
