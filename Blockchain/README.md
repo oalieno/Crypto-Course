@@ -1,6 +1,6 @@
 # Blockchain
 
-* `lib.js` and `config.js` contains some helper script build on top of web3.
+* `lib.js` and `config.js` are helper scripts built on top of web3.
 
 ## Challenges
 
