@@ -12,6 +12,8 @@ Currently only have 5 sections. More coming...
 
 ## Requirements
 
+You may need the following packages.
+
 * [pycryptodome](https://github.com/Legrandin/pycryptodome)
 * [pwntools](https://github.com/Gallopsled/pwntools)
 * [sagemath](https://www.sagemath.org/)
