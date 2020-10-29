@@ -17,7 +17,6 @@ Currently only have 5 sections. More coming...
 * [sagemath](https://www.sagemath.org/)
 
 ```bash
-pip install pycryptodome
-pip install git+https://github.com/Gallopsled/pwntools.git@dev
+pip install pycryptodome pwntools
 sudo apt install sagemath
 ```
