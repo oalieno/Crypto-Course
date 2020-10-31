@@ -1,6 +1,6 @@
 # LFSR
 
-You can look at the [course material](/LFSR/LFSR.pdf) first before diving into the challenges.
+You can look at the [course material](https://speakerdeck.com/oalieno/crypto-course-lfsr) first before diving into the challenges.
 
 ## Challenges
 

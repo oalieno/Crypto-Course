@@ -1,7 +1,7 @@
 # RSA
 
-You can look at the [course material](/RSA/RSA.pdf) first before diving into the challenges.  
-[BB06.pdf](/RSA/BB06.pdf) is an additional slide about **Bleichenbacher RSA Signature Forgery**.
+You can look at the [course material](https://speakerdeck.com/oalieno/crypto-course-rsa) first before diving into the challenges.  
+[BB06](https://speakerdeck.com/oalieno/crypto-course-bleichenbacher-rsa-signature-forgery) is an additional slide about **Bleichenbacher RSA Signature Forgery**.
 
 ## Challenges
 

@@ -1,6 +1,6 @@
 # Block Cipher Mode
 
-You can look at the [course material](/Block-Cipher-Mode/Block-Cipher-Mode.pdf) first before diving into the challenges.
+You can look at the [course material](https://speakerdeck.com/oalieno/crypto-course-block-cipher-mode) first before diving into the challenges.
 
 ## Challenges
 

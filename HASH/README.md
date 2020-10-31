@@ -1,6 +1,6 @@
 # HASH
 
-You can look at the [course material](/HASH/HASH.pdf) first before diving into the challenges.
+You can look at the [course material](https://speakerdeck.com/oalieno/crypto-course-hash) first before diving into the challenges.
 
 ## Challenges
 
