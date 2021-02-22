@@ -1,4 +1,6 @@
 # Crypto Course
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foalieno%2FCrypto-Course.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Foalieno%2FCrypto-Course?ref=badge_shield)
+
 
 An open source practical cryptography course for CTF player.
 
@@ -22,3 +24,7 @@ You may need the following packages.
 pip install pycryptodome pwntools
 sudo apt install sagemath
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foalieno%2FCrypto-Course.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Foalieno%2FCrypto-Course?ref=badge_large)
